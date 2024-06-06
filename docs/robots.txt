@@ -1,1 +1,0 @@
-Sitemap: https://mrdbourke.github.io/quarto_test/sitemap.xml
