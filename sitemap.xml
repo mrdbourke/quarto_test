@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mrdbourke.github.io/quarto_test/hello.html</loc>
-    <lastmod>2024-06-06T00:12:32.250Z</lastmod>
+    <loc>https://mrdbourke.github.io/quarto_test/notebooks/hello.html</loc>
+    <lastmod>2024-06-06T00:15:50.056Z</lastmod>
   </url>
   <url>
     <loc>https://mrdbourke.github.io/quarto_test/notebooks/hello_2.html</loc>
-    <lastmod>2024-06-06T00:12:32.250Z</lastmod>
+    <lastmod>2024-06-06T00:15:50.056Z</lastmod>
   </url>
 </urlset>
