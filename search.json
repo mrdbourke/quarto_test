@@ -119,7 +119,7 @@
     "href": "notebooks/hello_2.html",
     "title": "Quarto Basics 2",
     "section": "",
-    "text": "How does this work?\nCan I deploy from nested folders?\nI’d like to keep the root/ dir nice and clean.\n\n# Let's practice a cell output and see if I can get it to be presented nicely\nprint(\"Testing cell output\")\n\nTesting cell output",
+    "text": "How does this work?\nCan I deploy from nested folders?\nI’d like to keep the root/ dir nice and clean.\n\n# Let's practice a cell output and see if I can get it to be presented nicely\nprint(\"Testing cell output\")\n\nTesting cell output\n\n\n\n# And then if I add another output here\nprint(\"Another output\")\n\nAnother output",
     "crumbs": [
       "Home",
       "Get started",
@@ -131,7 +131,7 @@
     "href": "notebooks/hello_2.html#what-if-i-make-another-notebook-here",
     "title": "Quarto Basics 2",
     "section": "",
-    "text": "How does this work?\nCan I deploy from nested folders?\nI’d like to keep the root/ dir nice and clean.\n\n# Let's practice a cell output and see if I can get it to be presented nicely\nprint(\"Testing cell output\")\n\nTesting cell output",
+    "text": "How does this work?\nCan I deploy from nested folders?\nI’d like to keep the root/ dir nice and clean.\n\n# Let's practice a cell output and see if I can get it to be presented nicely\nprint(\"Testing cell output\")\n\nTesting cell output\n\n\n\n# And then if I add another output here\nprint(\"Another output\")\n\nAnother output",
     "crumbs": [
       "Home",
       "Get started",
