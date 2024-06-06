@@ -19,5 +19,12 @@
     "title": "Quarto Basics",
     "section": "Running a test",
     "text": "Running a test\nDoes this update on demand if I type in here and save?\n\n# Omg it does, if I type code here and save, it appears in the local host \n\nThis is a game changer! I can see immediately the results of my code and have it output to a live server to see how it will render :D"
+  },
+  {
+    "objectID": "hello.html#another-test-of-an-update",
+    "href": "hello.html#another-test-of-an-update",
+    "title": "Quarto Basics",
+    "section": "Another test of an update",
+    "text": "Another test of an update\nHow do this one go?\nIf I push a commit to main, does this appear on the website?"
   }
 ]
