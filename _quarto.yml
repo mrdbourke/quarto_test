@@ -1,3 +1,28 @@
 project:
   type: website
   output-dir: docs
+
+website:
+  title: "Test Quarto"
+  navbar:
+    left:
+      - href: index.md
+        text: Home
+      - href: about.md
+        text: About
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Get started"
+        contents:
+          - href: notebooks/hello.ipynb
+            text: Notebook 1
+          - href: notebooks/hello_2.ipynb
+            text: Notebook 2
+
+format:
+  html:
+    theme: cosmo
+    # css: styles.css
+    toc: true
