@@ -20,6 +20,8 @@ website:
             text: Notebook 1
           - href: notebooks/hello_2.ipynb
             text: Notebook 2
+          - href: notebooks/ztm_hugging_face_simple_text_classification.ipynb
+            text: Text Classification
 
 format:
   html:
